@@ -1,0 +1,24 @@
+{
+  "name": "parcial2_pw_c2_2025_00301423",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjadiaz1012/Parcial2_PW_C2_2025_00301423.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benjadiaz1012/Parcial2_PW_C2_2025_00301423/issues"
+  },
+  "homepage": "https://github.com/Benjadiaz1012/Parcial2_PW_C2_2025_00301423#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
